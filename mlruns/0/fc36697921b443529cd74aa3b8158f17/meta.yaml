@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/fc36697921b443529cd74aa3b8158f17/artifacts
+end_time: 1717170492483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc36697921b443529cd74aa3b8158f17
+run_name: smiling-cod-318
+run_uuid: fc36697921b443529cd74aa3b8158f17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170447228
+status: 3
+tags: []
+user_id: meirof

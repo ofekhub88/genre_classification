@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/9bf76a5898ea40099fc8988333388132/artifacts
+end_time: 1717172616652
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bf76a5898ea40099fc8988333388132
+run_name: defiant-shrike-419
+run_uuid: 9bf76a5898ea40099fc8988333388132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172612547
+status: 4
+tags: []
+user_id: meirof

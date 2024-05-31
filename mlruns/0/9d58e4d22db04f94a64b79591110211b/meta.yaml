@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/9d58e4d22db04f94a64b79591110211b/artifacts
+end_time: 1717171018457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d58e4d22db04f94a64b79591110211b
+run_name: nosy-fox-316
+run_uuid: 9d58e4d22db04f94a64b79591110211b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170973882
+status: 4
+tags: []
+user_id: meirof

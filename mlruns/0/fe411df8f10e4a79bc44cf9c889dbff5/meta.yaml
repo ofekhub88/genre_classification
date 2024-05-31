@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/fe411df8f10e4a79bc44cf9c889dbff5/artifacts
+end_time: 1717174759285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe411df8f10e4a79bc44cf9c889dbff5
+run_name: legendary-cat-521
+run_uuid: fe411df8f10e4a79bc44cf9c889dbff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717174646618
+status: 4
+tags: []
+user_id: meirof

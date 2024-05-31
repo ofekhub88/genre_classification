@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/solution/mlruns/0/d47b773a876445ca8eafb1f5b2252614/artifacts
+end_time: 1717171781624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d47b773a876445ca8eafb1f5b2252614
+run_name: resilient-bass-856
+run_uuid: d47b773a876445ca8eafb1f5b2252614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171768143
+status: 4
+tags: []
+user_id: meirof

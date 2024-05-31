@@ -1,0 +1,31 @@
+2024-05-31 19:09:32,918 Downloading artifact
+2024-05-31 19:09:34,262 Dropping duplicates
+2024-05-31 19:09:34,285 Feature engineering
+/mnt/c/wsl/mount/Udacity/genre_classification/solution/preprocess/run.py:30: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  df['title'].fillna(value='', inplace=True)
+/mnt/c/wsl/mount/Udacity/genre_classification/solution/preprocess/run.py:31: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+  df['song_name'].fillna(value='', inplace=True)
+2024-05-31 19:09:34,866 Logging artifact
+Traceback (most recent call last):
+  File "/mnt/c/wsl/mount/Udacity/genre_classification/solution/preprocess/run.py", line 80, in <module>
+    go(args)
+  File "/mnt/c/wsl/mount/Udacity/genre_classification/solution/preprocess/run.py", line 45, in go
+    run.log_artifact(artifact)
+  File "/home/meirof/miniconda3.10/envs/mlflow-7bd88c9e64ceb46f797079836efc7bf9aa6d00e9/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 400, in wrapper_fn
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meirof/miniconda3.10/envs/mlflow-7bd88c9e64ceb46f797079836efc7bf9aa6d00e9/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 390, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/meirof/miniconda3.10/envs/mlflow-7bd88c9e64ceb46f797079836efc7bf9aa6d00e9/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 3030, in log_artifact
+    return self._log_artifact(
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/meirof/miniconda3.10/envs/mlflow-7bd88c9e64ceb46f797079836efc7bf9aa6d00e9/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 3169, in _log_artifact
+    self._assert_can_log_artifact(artifact)
+  File "/home/meirof/miniconda3.10/envs/mlflow-7bd88c9e64ceb46f797079836efc7bf9aa6d00e9/lib/python3.12/site-packages/wandb/sdk/wandb_run.py", line 3226, in _assert_can_log_artifact
+    raise ValueError(
+ValueError: Artifact preprocessed_data.csv already exists with type 'raw_data'; cannot create another with type 'preprocessed_data'

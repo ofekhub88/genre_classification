@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/3de6f94d90b348f7b520e95068b9b696/artifacts
+end_time: 1717173752445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3de6f94d90b348f7b520e95068b9b696
+run_name: blushing-asp-594
+run_uuid: 3de6f94d90b348f7b520e95068b9b696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173698985
+status: 3
+tags: []
+user_id: meirof

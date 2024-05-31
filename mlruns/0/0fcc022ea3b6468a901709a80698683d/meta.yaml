@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/0fcc022ea3b6468a901709a80698683d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fcc022ea3b6468a901709a80698683d
+run_name: crawling-trout-402
+run_uuid: 0fcc022ea3b6468a901709a80698683d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170397946
+status: 1
+tags: []
+user_id: meirof

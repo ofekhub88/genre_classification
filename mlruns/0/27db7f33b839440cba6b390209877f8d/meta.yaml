@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/27db7f33b839440cba6b390209877f8d/artifacts
+end_time: 1717173075730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27db7f33b839440cba6b390209877f8d
+run_name: agreeable-donkey-293
+run_uuid: 27db7f33b839440cba6b390209877f8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173073979
+status: 4
+tags: []
+user_id: meirof

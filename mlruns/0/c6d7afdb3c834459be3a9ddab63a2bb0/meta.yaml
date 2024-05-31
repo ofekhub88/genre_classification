@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/c6d7afdb3c834459be3a9ddab63a2bb0/artifacts
+end_time: 1717171373636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6d7afdb3c834459be3a9ddab63a2bb0
+run_name: upbeat-cod-920
+run_uuid: c6d7afdb3c834459be3a9ddab63a2bb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171356089
+status: 3
+tags: []
+user_id: meirof

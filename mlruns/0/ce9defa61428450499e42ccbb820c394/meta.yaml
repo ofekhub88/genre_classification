@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/ce9defa61428450499e42ccbb820c394/artifacts
+end_time: 1717173667775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce9defa61428450499e42ccbb820c394
+run_name: wistful-carp-439
+run_uuid: ce9defa61428450499e42ccbb820c394
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173644473
+status: 4
+tags: []
+user_id: meirof

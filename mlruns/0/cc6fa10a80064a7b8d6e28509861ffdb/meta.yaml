@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/cc6fa10a80064a7b8d6e28509861ffdb/artifacts
+end_time: 1717171392794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc6fa10a80064a7b8d6e28509861ffdb
+run_name: burly-lark-677
+run_uuid: cc6fa10a80064a7b8d6e28509861ffdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171377555
+status: 4
+tags: []
+user_id: meirof

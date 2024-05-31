@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/63583e5a3dcf44f58ba02dba129d207b/artifacts
+end_time: 1717174758848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63583e5a3dcf44f58ba02dba129d207b
+run_name: indecisive-rat-166
+run_uuid: 63583e5a3dcf44f58ba02dba129d207b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717174648981
+status: 4
+tags: []
+user_id: meirof

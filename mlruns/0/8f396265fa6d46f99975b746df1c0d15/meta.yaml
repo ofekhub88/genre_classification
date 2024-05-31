@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/8f396265fa6d46f99975b746df1c0d15/artifacts
+end_time: 1717174244046
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f396265fa6d46f99975b746df1c0d15
+run_name: honorable-calf-844
+run_uuid: 8f396265fa6d46f99975b746df1c0d15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717174131355
+status: 3
+tags: []
+user_id: meirof

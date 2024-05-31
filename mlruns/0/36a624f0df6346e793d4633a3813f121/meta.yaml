@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/36a624f0df6346e793d4633a3813f121/artifacts
+end_time: 1717170614200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36a624f0df6346e793d4633a3813f121
+run_name: learned-sloth-836
+run_uuid: 36a624f0df6346e793d4633a3813f121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170542893
+status: 4
+tags: []
+user_id: meirof

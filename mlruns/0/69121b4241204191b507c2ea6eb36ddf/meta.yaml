@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/69121b4241204191b507c2ea6eb36ddf/artifacts
+end_time: 1717173299484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69121b4241204191b507c2ea6eb36ddf
+run_name: caring-pig-973
+run_uuid: 69121b4241204191b507c2ea6eb36ddf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173297624
+status: 4
+tags: []
+user_id: meirof

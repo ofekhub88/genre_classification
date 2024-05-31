@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/a9f2886261384b52a237f3ccec9886aa/artifacts
+end_time: 1717172616416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9f2886261384b52a237f3ccec9886aa
+run_name: bright-ray-378
+run_uuid: a9f2886261384b52a237f3ccec9886aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172614635
+status: 4
+tags: []
+user_id: meirof

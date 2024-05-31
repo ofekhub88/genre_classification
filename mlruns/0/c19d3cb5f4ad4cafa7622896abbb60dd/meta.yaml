@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/c19d3cb5f4ad4cafa7622896abbb60dd/artifacts
+end_time: 1717171301241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c19d3cb5f4ad4cafa7622896abbb60dd
+run_name: treasured-hen-685
+run_uuid: c19d3cb5f4ad4cafa7622896abbb60dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171287235
+status: 4
+tags: []
+user_id: meirof

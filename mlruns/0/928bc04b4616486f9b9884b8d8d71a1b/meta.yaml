@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/928bc04b4616486f9b9884b8d8d71a1b/artifacts
+end_time: 1717172190265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 928bc04b4616486f9b9884b8d8d71a1b
+run_name: indecisive-trout-266
+run_uuid: 928bc04b4616486f9b9884b8d8d71a1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172188046
+status: 4
+tags: []
+user_id: meirof

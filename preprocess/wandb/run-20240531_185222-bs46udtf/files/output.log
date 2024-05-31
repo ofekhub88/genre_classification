@@ -1,0 +1,15 @@
+2024-05-31 18:52:24,775 Downloading artifact
+Traceback (most recent call last):
+  File "/mnt/c/wsl/mount/Udacity/genre_classification/preprocess/run.py", line 80, in <module>
+    go(args)
+  File "/mnt/c/wsl/mount/Udacity/genre_classification/preprocess/run.py", line 22, in go
+    df = pd.read_parquet(artifact_path)
+  File "/home/meirof/miniconda3.10/envs/mlflow-a222c8930e173fe00dba179361ab24d9d49b60e6/lib/python3.10/site-packages/pandas/io/parquet.py", line 651, in read_parquet
+    impl = get_engine(engine)
+  File "/home/meirof/miniconda3.10/envs/mlflow-a222c8930e173fe00dba179361ab24d9d49b60e6/lib/python3.10/site-packages/pandas/io/parquet.py", line 67, in get_engine
+    raise ImportError(
+ImportError: Unable to find a usable engine; tried using: 'pyarrow', 'fastparquet'.
+A suitable version of pyarrow or fastparquet is required for parquet support.
+Trying to import the above resulted in these errors:
+ - Pandas requires version '10.0.1' or newer of 'pyarrow' (version '2.0.0' currently installed).
+ - Missing optional dependency 'fastparquet'. fastparquet is required for parquet support. Use pip or conda to install fastparquet.

@@ -1,0 +1,10 @@
+2024-05-31 19:50:12,737 Downloading and reading train artifact
+2024-05-31 19:50:14,338 Extracting target from dataframe
+2024-05-31 19:50:14,341 Splitting train/val
+2024-05-31 19:50:14,375 Setting up pipeline
+2024-05-31 19:50:14,389 Fitting
+2024-05-31 19:50:16,773 Scoring
+/home/meirof/miniconda3.10/envs/mlflow-56ad54afa0a32679c2917194d262f167f4f0081a/lib/python3.8/site-packages/mlflow/types/utils.py:394: UserWarning: Hint: Inferred schema contains integer column(s). Integer columns in Python cannot represent missing values. If your input data contains missing values at inference time, it will be encoded as floats and will cause a schema enforcement error. The best way to avoid this problem is to infer the model schema based on a realistic data sample (training dataset) that includes missing values. Alternatively, you can declare integer columns as doubles (float64) whenever these columns may have missing values. See `Handling Integers With Missing Values <https://www.mlflow.org/docs/latest/models.html#handling-integers-with-missing-values>`_ for more details.
+  warnings.warn(
+
+[34m[1mwandb[39m[22m: Adding directory to artifact (/tmp/tmp8u54z2ok/model_export)... Done. 0.0s

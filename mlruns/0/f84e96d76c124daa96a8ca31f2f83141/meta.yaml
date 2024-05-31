@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/f84e96d76c124daa96a8ca31f2f83141/artifacts
+end_time: 1717174089367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f84e96d76c124daa96a8ca31f2f83141
+run_name: able-kit-571
+run_uuid: f84e96d76c124daa96a8ca31f2f83141
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717174087205
+status: 4
+tags: []
+user_id: meirof

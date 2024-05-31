@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/aba0861e38f445c38634b7361e9f9b96/artifacts
+end_time: 1717172143960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aba0861e38f445c38634b7361e9f9b96
+run_name: auspicious-sloth-133
+run_uuid: aba0861e38f445c38634b7361e9f9b96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172141563
+status: 4
+tags: []
+user_id: meirof

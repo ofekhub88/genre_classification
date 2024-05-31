@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/solution/mlruns/0/d25b07d9054c47f2aa028728008ca73b/artifacts
+end_time: 1717171781884
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d25b07d9054c47f2aa028728008ca73b
+run_name: lyrical-kit-920
+run_uuid: d25b07d9054c47f2aa028728008ca73b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171752803
+status: 4
+tags: []
+user_id: meirof

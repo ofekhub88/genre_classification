@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/9381042c9013458db69231e14830c57d/artifacts
+end_time: 1717173075993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9381042c9013458db69231e14830c57d
+run_name: welcoming-ox-23
+run_uuid: 9381042c9013458db69231e14830c57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173071775
+status: 4
+tags: []
+user_id: meirof

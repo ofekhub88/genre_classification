@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/8cf34c8b830c4554917b2a4df13a7080/artifacts
+end_time: 1717170753715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cf34c8b830c4554917b2a4df13a7080
+run_name: victorious-cow-135
+run_uuid: 8cf34c8b830c4554917b2a4df13a7080
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170696244
+status: 4
+tags: []
+user_id: meirof

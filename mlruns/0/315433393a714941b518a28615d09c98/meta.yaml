@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/315433393a714941b518a28615d09c98/artifacts
+end_time: 1717172792758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315433393a714941b518a28615d09c98
+run_name: amusing-deer-845
+run_uuid: 315433393a714941b518a28615d09c98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172766278
+status: 4
+tags: []
+user_id: meirof

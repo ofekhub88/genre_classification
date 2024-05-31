@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/24b338f831fb49969ccf0277e909aa1d/artifacts
+end_time: 1717171373463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24b338f831fb49969ccf0277e909aa1d
+run_name: hilarious-goose-598
+run_uuid: 24b338f831fb49969ccf0277e909aa1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171358368
+status: 3
+tags: []
+user_id: meirof

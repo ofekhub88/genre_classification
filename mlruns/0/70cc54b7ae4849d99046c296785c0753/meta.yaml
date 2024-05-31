@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/70cc54b7ae4849d99046c296785c0753/artifacts
+end_time: 1717172078965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70cc54b7ae4849d99046c296785c0753
+run_name: calm-sponge-984
+run_uuid: 70cc54b7ae4849d99046c296785c0753
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172015380
+status: 3
+tags: []
+user_id: meirof

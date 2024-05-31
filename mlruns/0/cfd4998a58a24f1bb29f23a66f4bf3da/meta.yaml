@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/cfd4998a58a24f1bb29f23a66f4bf3da/artifacts
+end_time: 1717173391535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfd4998a58a24f1bb29f23a66f4bf3da
+run_name: mercurial-shrimp-67
+run_uuid: cfd4998a58a24f1bb29f23a66f4bf3da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173389603
+status: 4
+tags: []
+user_id: meirof

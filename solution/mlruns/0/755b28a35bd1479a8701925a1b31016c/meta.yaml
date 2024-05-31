@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/solution/mlruns/0/755b28a35bd1479a8701925a1b31016c/artifacts
+end_time: 1717171741027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 755b28a35bd1479a8701925a1b31016c
+run_name: lyrical-calf-554
+run_uuid: 755b28a35bd1479a8701925a1b31016c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171564865
+status: 4
+tags: []
+user_id: meirof

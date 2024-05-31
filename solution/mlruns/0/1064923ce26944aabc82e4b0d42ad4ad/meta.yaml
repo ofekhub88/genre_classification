@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/solution/mlruns/0/1064923ce26944aabc82e4b0d42ad4ad/artifacts
+end_time: 1717171842842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1064923ce26944aabc82e4b0d42ad4ad
+run_name: bustling-eel-801
+run_uuid: 1064923ce26944aabc82e4b0d42ad4ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171811967
+status: 3
+tags: []
+user_id: meirof

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/b8675407fedc4910a5e72dcbfa84bf4a/artifacts
+end_time: 1717170557904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8675407fedc4910a5e72dcbfa84bf4a
+run_name: orderly-snake-327
+run_uuid: b8675407fedc4910a5e72dcbfa84bf4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170545058
+status: 3
+tags: []
+user_id: meirof

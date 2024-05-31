@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/solution/mlruns/0/04fc9bb895444f6b8ba2d5b5b1eefa83/artifacts
+end_time: 1717171677252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04fc9bb895444f6b8ba2d5b5b1eefa83
+run_name: gregarious-rat-401
+run_uuid: 04fc9bb895444f6b8ba2d5b5b1eefa83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171641151
+status: 3
+tags: []
+user_id: meirof

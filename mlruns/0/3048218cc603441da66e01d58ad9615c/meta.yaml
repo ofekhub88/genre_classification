@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/3048218cc603441da66e01d58ad9615c/artifacts
+end_time: 1717173516178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3048218cc603441da66e01d58ad9615c
+run_name: loud-moth-904
+run_uuid: 3048218cc603441da66e01d58ad9615c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173514373
+status: 4
+tags: []
+user_id: meirof

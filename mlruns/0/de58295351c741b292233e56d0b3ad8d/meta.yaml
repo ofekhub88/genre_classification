@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/de58295351c741b292233e56d0b3ad8d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de58295351c741b292233e56d0b3ad8d
+run_name: polite-colt-751
+run_uuid: de58295351c741b292233e56d0b3ad8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170071649
+status: 1
+tags: []
+user_id: meirof

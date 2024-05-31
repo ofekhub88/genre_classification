@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/91fc2d517a6c4b06958d59852501433f/artifacts
+end_time: 1717169852489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91fc2d517a6c4b06958d59852501433f
+run_name: calm-panda-793
+run_uuid: 91fc2d517a6c4b06958d59852501433f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717169780982
+status: 4
+tags: []
+user_id: meirof

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/0f20e299285047c2b23685bc098770ce/artifacts
+end_time: 1717172358736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f20e299285047c2b23685bc098770ce
+run_name: righteous-cod-548
+run_uuid: 0f20e299285047c2b23685bc098770ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172330296
+status: 4
+tags: []
+user_id: meirof

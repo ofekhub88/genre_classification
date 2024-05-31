@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/7ee3dd54c6134f7c946028a4a3e7607f/artifacts
+end_time: 1717170753446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ee3dd54c6134f7c946028a4a3e7607f
+run_name: powerful-skunk-864
+run_uuid: 7ee3dd54c6134f7c946028a4a3e7607f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170698507
+status: 4
+tags: []
+user_id: meirof

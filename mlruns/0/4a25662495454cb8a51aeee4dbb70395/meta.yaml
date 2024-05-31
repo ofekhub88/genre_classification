@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/4a25662495454cb8a51aeee4dbb70395/artifacts
+end_time: 1717172793004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a25662495454cb8a51aeee4dbb70395
+run_name: amazing-kit-970
+run_uuid: 4a25662495454cb8a51aeee4dbb70395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172702812
+status: 4
+tags: []
+user_id: meirof

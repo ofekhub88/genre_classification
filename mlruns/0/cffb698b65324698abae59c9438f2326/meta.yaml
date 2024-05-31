@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/cffb698b65324698abae59c9438f2326/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cffb698b65324698abae59c9438f2326
+run_name: lyrical-stork-665
+run_uuid: cffb698b65324698abae59c9438f2326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717170300667
+status: 1
+tags: []
+user_id: meirof

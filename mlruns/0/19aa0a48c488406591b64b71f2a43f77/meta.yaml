@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/19aa0a48c488406591b64b71f2a43f77/artifacts
+end_time: 1717173391793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 19aa0a48c488406591b64b71f2a43f77
+run_name: stylish-zebra-464
+run_uuid: 19aa0a48c488406591b64b71f2a43f77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173387261
+status: 4
+tags: []
+user_id: meirof

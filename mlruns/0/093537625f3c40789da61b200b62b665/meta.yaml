@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/093537625f3c40789da61b200b62b665/artifacts
+end_time: 1717172902563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 093537625f3c40789da61b200b62b665
+run_name: omniscient-conch-343
+run_uuid: 093537625f3c40789da61b200b62b665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717172900823
+status: 4
+tags: []
+user_id: meirof

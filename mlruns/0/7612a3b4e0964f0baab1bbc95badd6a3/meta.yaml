@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/7612a3b4e0964f0baab1bbc95badd6a3/artifacts
+end_time: 1717173516447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7612a3b4e0964f0baab1bbc95badd6a3
+run_name: lyrical-whale-884
+run_uuid: 7612a3b4e0964f0baab1bbc95badd6a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173512158
+status: 4
+tags: []
+user_id: meirof

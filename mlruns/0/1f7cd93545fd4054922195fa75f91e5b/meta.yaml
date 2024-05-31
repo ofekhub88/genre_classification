@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/1f7cd93545fd4054922195fa75f91e5b/artifacts
+end_time: 1717173752249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f7cd93545fd4054922195fa75f91e5b
+run_name: fun-sow-679
+run_uuid: 1f7cd93545fd4054922195fa75f91e5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717173701170
+status: 3
+tags: []
+user_id: meirof

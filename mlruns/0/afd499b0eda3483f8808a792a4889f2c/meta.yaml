@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/afd499b0eda3483f8808a792a4889f2c/artifacts
+end_time: 1717171300981
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afd499b0eda3483f8808a792a4889f2c
+run_name: enthused-squid-210
+run_uuid: afd499b0eda3483f8808a792a4889f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717171289376
+status: 4
+tags: []
+user_id: meirof
