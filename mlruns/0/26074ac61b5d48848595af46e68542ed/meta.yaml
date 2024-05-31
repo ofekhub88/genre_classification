@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/26074ac61b5d48848595af46e68542ed/artifacts
+end_time: 1717176878012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26074ac61b5d48848595af46e68542ed
+run_name: trusting-hawk-890
+run_uuid: 26074ac61b5d48848595af46e68542ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717176875647
+status: 4
+tags: []
+user_id: meirof

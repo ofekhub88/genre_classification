@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/d9fdb8b2849c46e5b15d420b7103d54e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9fdb8b2849c46e5b15d420b7103d54e
+run_name: wise-cod-706
+run_uuid: d9fdb8b2849c46e5b15d420b7103d54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717176976438
+status: 1
+tags: []
+user_id: meirof

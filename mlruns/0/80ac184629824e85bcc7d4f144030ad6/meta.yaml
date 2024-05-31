@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/80ac184629824e85bcc7d4f144030ad6/artifacts
+end_time: 1717176744976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80ac184629824e85bcc7d4f144030ad6
+run_name: secretive-zebra-641
+run_uuid: 80ac184629824e85bcc7d4f144030ad6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717176742692
+status: 4
+tags: []
+user_id: meirof

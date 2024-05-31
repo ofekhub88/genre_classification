@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/f3a0d812ed8d42f3a2689fe8fbb55d00/artifacts
+end_time: 1717176771208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3a0d812ed8d42f3a2689fe8fbb55d00
+run_name: exultant-fowl-83
+run_uuid: f3a0d812ed8d42f3a2689fe8fbb55d00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717176768947
+status: 4
+tags: []
+user_id: meirof

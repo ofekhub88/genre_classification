@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/wsl/mount/Udacity/genre_classification/mlruns/0/165253fc07074021a747151c83e01b93/artifacts
+end_time: 1717176919508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 165253fc07074021a747151c83e01b93
+run_name: clean-deer-596
+run_uuid: 165253fc07074021a747151c83e01b93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717176917292
+status: 4
+tags: []
+user_id: meirof
